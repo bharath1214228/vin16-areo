@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ascelibrary.org	TRUE	/	FALSE	1999999999	JSESSIONID	40758ba9-1d92-443d-a5f4-62b30df0fab1
+ascelibrary.org	TRUE	/	FALSE	1999999999	age	-1
+.ascelibrary.org	TRUE	/	FALSE	1999999999	SERVER	WZ6myaEXBLFy1CKOUXMBtA==
+.ascelibrary.org	TRUE	/	FALSE	1999999999	MAID	TDIWyvcM2tGx5OdCfaIgfw==
+.ascelibrary.org	TRUE	/	FALSE	1999999999	MACHINE_LAST_SEEN	2022-11-09T08%3A18%3A29.259-08%3A00
+.ascelibrary.org	TRUE	/	FALSE	1999999999	__cf_bm	IP4acMLB7olad2bfAD_EdtcRkEX1auYkyWlAbGAZipc-1668010709-0-AWX+Zfgl6N8W4IehAGOJ9xNMWZIHpwBgdPQbi7FYb5XeAbP1+PcAnxFvQgnTtNryZTkYoeYS+MIFQtYfLs4Tjd0=
+ascelibrary.org	TRUE	/	FALSE	1999999999	SameSite	None
+

@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Nov 2022 21:46:15 at https://ascelibrary.org/journal/jaeeez +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ascelibrary.org/journal/jaeeez -O1 "C:\My Web Sites\vin16" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:47:48	Error: 	"Not Found" (404) at link https://ascelibrary.org/journal/t1666777028000-v1666777028000/head_3_4_184_en.css (from https://ascelibrary.org/journal/jaeeez)
+21:47:48	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://ascelibrary.org/journal/jaeeez)
+21:48:09	Error: 	"Not Found" (404) at link https://ascelibrary.org/pb-assets/ENDO/bg.png (from https://ascelibrary.org/pb/css/t1666777028000-v1666777028000/head_3_4_184_en.css)
+21:48:09	Error: 	"Not Found" (404) at link https://ascelibrary.org/journal/COVERS/9780784413173.cover.jpg (from https://ascelibrary.org/journal/geosek)
+21:48:29	Error: 	"Not Found" (404) at link https://ascelibrary.org/journal/jaeee (from https://ascelibrary.org/journal/jsued2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 16 seconds : 162 links scanned, 156 files written (13511097 bytes overall) [6172499 bytes received at 45386 bytes/sec], 8408630 bytes transferred using HTTP compression in 40 files, ratio 10%, 11.5 requests per connection
+(5 errors, 0 warnings, 0 messages)
